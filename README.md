@@ -1,6 +1,3 @@
-### Hi there 👋
-
-# Read.me
 
 <h1 align="center">Hi 👋, I'm CodeSpellcasterX</h1>
 <h3 align="center">A passionate Software Developer from India who is on the path to explore the journey of development</h3>
